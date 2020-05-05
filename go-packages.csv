@@ -1,0 +1,5 @@
+wildcheck,github.com/theblackturtle/wildcheck,wildcheck/bin/wildcheck
+subjs,github.com/lc/subjs,subjs/bin/subjs
+kxss,github.com/tomnomnom/hacks/kxss,kxss/bin/kxss
+waybackurls,github.com/tomnomnom/waybackurls,waybackurls/bin/waybackurls
+hakrawler,github.com/hakluke/hakrawler,hakrawler/bin/hakrawler
