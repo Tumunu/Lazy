@@ -8,7 +8,7 @@ Spin up a VM. Clone repo.
 
 ### Installing lazy
 ```
-  git clone https://github.com/Tumunu/Lazy.git
+  git clone https://github.com/dupesnduds/Lazy.git
 ```
 
 ## Motivation
